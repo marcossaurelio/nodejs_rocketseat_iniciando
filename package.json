@@ -1,0 +1,9 @@
+{
+  "name": "node_js_rocketseat_20230520",
+  "version": "1.0.0",
+  "description": "Iniciando com NodeJS Rocketseat Youtube",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Marcos Aurélio Carvalho",
+  "license": "MIT"
+}
