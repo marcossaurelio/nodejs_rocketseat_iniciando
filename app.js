@@ -33,4 +33,5 @@ app.get('/products/:id', (request, response) =>{
     return response.json(product);
 })
 
+
 app.listen(4002, () => console.log('Servidor está rodando na porta 4002'));
