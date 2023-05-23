@@ -19,7 +19,3 @@ Content-Type: application/json
 ###
 
 GET http://localhost:4002/products
-
-###
-
-GET http://localhost:4002/products/87b12ca1-651f-44bc-a504-d43eb0057b05
