@@ -1,0 +1,25 @@
+POST http://localhost:4002/products
+Content-Type: application/json
+
+{
+   "name": "Caneta lilás",
+   "price": 3
+}
+
+###
+
+POST http://localhost:4002/products
+Content-Type: application/json
+
+{
+   "name": "Caderno 96 folhas",
+   "price": 36.90
+}
+
+###
+
+GET http://localhost:4002/products
+
+###
+
+GET http://localhost:4002/products/87b12ca1-651f-44bc-a504-d43eb0057b05
